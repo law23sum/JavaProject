@@ -1,3 +1,5 @@
+package guessgame;
+
 import java.util.Scanner;                                                                                               //  Scanner class
 
 public class HiLo {
